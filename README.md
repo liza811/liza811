@@ -1,16 +1,37 @@
-## Hi there 👋
+✨ Hey there, I'm Liza! ✨
 
-<!--
-**liza811/liza811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎨 Full‑Stack Developer & Creative Technologist
+I turn concepts into code and ideas into immersive digital experiences — one feature, one design at a time.
 
-Here are some ideas to get you started:
+💕 **About Me**
+Self-taught in full-stack development with a flair for turning ideas into polished, user-friendly applications. I thrive on creative problem-solving and building systems that scale.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 **Interests & Passions**
+- 🚀 Self-taught full-stack development
+- 🧩 Creative problem-solving & architecture
+- 🔥 Scalable back-end & API design
+- 🎨 UX/UI design & user-centric interfaces
+
+🌐 **Languages****
+English • French • Arabic 
+
+🎓 **Education**
+**pursuing Master’s Degree in Software Engineering**, University Abderrahmane Mira, Béjaïa
+
+🛠️ **Tech & Tools**
+
+💻 **Programming**
+JavaScript • TypeScript • Java • PHP • SQL
+
+🌐 **Frontend & Design**
+React • Next.js • Tailwind CSS • Framer Motion • Figma
+
+⚙️ **Backend & Databases**
+Node.js • NestJS • Express • PostgreSQL • MongoDB • Prisma • TypeOrm
+
+🧩 **DevOps & Tools**
+Git • GitHub • Docker 
+
+🔗 **Let’s Connect**
+
+- [Email Me](mailto:lizadjebara2@gmail.com)
