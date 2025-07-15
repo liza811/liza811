@@ -1,51 +1,49 @@
-✨ Hey there, I'm Lili! ✨
+✨ Hey there, I'm Liza! ✨
 
-🎨 Full‑Stack Developer & Creative Technologist
+🎨 Full‑Stack Developer & Creative Technologist  
 I turn concepts into code and ideas into immersive digital experiences — one feature, one design at a time.
 
 ---
 
-Self-taught in full-stack development with a flair for turning ideas into polished, user-friendly applications. I thrive on creative problem-solving and building systems that scale.
+💕 **About Me**  
+Self-taught in full-stack development with a flair for turning ideas into polished, user-friendly applications. I thrive on creative problem-solving and building systems that scale.
 
 ---
 
-- 🚀 Self-taught full-stack development
+🧠 **Interests & Passions**  
+- 🚀 Self-taught full-stack development
 - 🧩 Creative problem-solving & architecture
 - 🔥 Scalable back-end & API design
 - 🎨 UX/UI design & user-centric interfaces
 
 ---
 
-English • French • Arabic • (Learning German)
+🌐 **Languages**  
+English • French • Arabic 
 
 ---
 
-**BSc & pursuing Master’s Degree in Software Engineering**, University Abderrahmane Mira, Béjaïa
+🎓 **Education**  
+** pursuing Master’s Degree in Software Engineering**, University Abderrahmane Mira, Béjaïa
 
 ---
 
-
----
+🛠️ **Tech & Tools**
 
-JavaScript • TypeScript • Java • PHP • Python • C# • SQL
+💻 **Programming**  
+JavaScript • TypeScript • Java • PHP • SQL
 
----
+🌐 **Frontend & Design**  
+React • Next.js • Tailwind CSS • Framer Motion • Figma
 
-React • Next.js • Tailwind CSS • Framer Motion • Figma • Blender
+⚙️ **Backend & Databases**  
+Node.js • NestJS • Express • PostgreSQL • MongoDB • TypeOrm • Prisma
 
----
-
-Node.js • NestJS • Express • PostgreSQL • MongoDB • Redis • Prisma
-
----
-
-TensorFlow • PyTorch • scikit‑learn • Pandas • NumPy
+🧩 **DevOps & Tools**  
+Git • GitHub • Docker 
 
 ---
 
-Git • GitHub • Docker • CI/CD (GitHub Actions)
+🔗 **Let’s Connect**
 
----
-
-- [LinkedIn](https://linkedin.com/in/yourprofile)
-- [Email Me](mailto:lili@example.com)
+- [Email Me](mailto:lizadjebara2@gmail.com)
