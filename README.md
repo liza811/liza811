@@ -1,7 +1,7 @@
 # ✨ Hey there, I'm Liza! ✨
 
 🎨 Full‑Stack Developer & Creative Technologist  
-I turn concepts into code and ideas into immersive digital experiences — one feature, one design at a time.
+I turn concepts into code and ideas into immersive digital experiences | one feature, one design at a time.
 
 ---
 
