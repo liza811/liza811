@@ -1,16 +1,16 @@
-✨ Hey there, I'm Liza! ✨
+# ✨ Hey there, I'm Liza! ✨
 
 🎨 Full‑Stack Developer & Creative Technologist  
 I turn concepts into code and ideas into immersive digital experiences — one feature, one design at a time.
 
 ---
 
-💕 **About Me**  
+## 💕 **About Me**  
 Self-taught in full-stack development with a flair for turning ideas into polished, user-friendly applications. I thrive on creative problem-solving and building systems that scale.
 
 ---
 
-🧠 **Interests & Passions**  
+## 🧠 **Interests & Passions**  
 - 🚀 Self-taught full-stack development
 - 🧩 Creative problem-solving & architecture
 - 🔥 Scalable back-end & API design
@@ -18,7 +18,7 @@ Self-taught in full-stack development with a flair for turning ideas into polish
 
 ---
 
-🌐 **Languages**  
+## 🌐 **Languages**  
 English • French • Arabic 
 
 ---
@@ -28,22 +28,22 @@ English • French • Arabic
 
 ---
 
-🛠️ **Tech & Tools**
+## 🛠️ **Tech & Tools**
 
-💻 **Programming**  
+### 💻 **Programming**  
 JavaScript • TypeScript • Java • PHP • SQL
 
-🌐 **Frontend & Design**  
+### 🌐 **Frontend & Design**  
 React • Next.js • Tailwind CSS • Framer Motion • Figma
 
-⚙️ **Backend & Databases**  
+### ⚙️ **Backend & Databases**  
 Node.js • NestJS • Express • PostgreSQL • MongoDB • TypeOrm • Prisma
 
-🧩 **DevOps & Tools**  
+### 🧩 **DevOps & Tools**  
 Git • GitHub • Docker 
 
 ---
 
-🔗 **Let’s Connect**
+## 🔗 **Let’s Connect**
 
 - [Email Me](mailto:lizadjebara2@gmail.com)
